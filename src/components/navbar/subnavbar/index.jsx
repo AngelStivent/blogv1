@@ -7,8 +7,15 @@ export default function index() {
   return (
     <>
     <nav className='subnav'>
+
    <div className='subcontent'>
-      <ul className='subnavegador1'>
+      <div className='sublogo '>
+            <img src='img/imagenes/cumaralheart.jpeg' alt="a"/>
+          </div>
+
+          <div className='menu'>
+          <ul className='subnavegador1'>
+
         {elementos.map(elemento =>(
          
           <li key={ elemento.id }>
@@ -21,9 +28,7 @@ export default function index() {
          
         ))}
       </ul>
-      <div className='logo '>
-        <img src='img/logo/logocompany23.png' alt="a"/>
-      </div>
+      
       <ul className='subnavegador2'>
         {elementos2.map(elemento =>(
          
@@ -37,6 +42,7 @@ export default function index() {
          
         ))}
       </ul>
+      </div>
        </div>
     
   

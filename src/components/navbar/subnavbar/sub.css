@@ -2,7 +2,7 @@
     padding-inline-end: 40px;
     padding-inline-start: 40px;
     width: 100vw;
-    background-color: rgba(0, 0, 0, 0.637);
+    background-color: rgba(53, 53, 53, 0.637);
     position: fixed;
     top: 60px;
     overflow: hidden;
@@ -10,28 +10,35 @@
   
   .subcontent{
     display: flex;
+    
+    
+  }
+
+  .menu{
+    display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items:start;
     flex-flow: row nowrap;
-  
+    padding: 10px;
   }
-  .subnavegador1{
+  .subcontent ul{
+    width: 15vw;
+
     display: flex;
-    justify-content: flex-start;
+    flex-flow:column nowrap;
+    justify-content: center;
+    align-items: center ;
+
   }
   
-  .subnavegador2{
-    display: flex;
-    justify-content: flex-end;
-  }
-  
+ 
   .subcontent li{
     list-style: none;
+    margin: 10px;
   }
   .subcontent a{
     color: beige;
     text-decoration: none;
-    
     padding: 10px;
   }
   
@@ -39,16 +46,18 @@
     background-color: blue;
   }
   
-  .subcentrar-row{
-      display: flex;
-      justify-content: center;
-      flex-flow: row nowrap;
-      align-items: center;
-      
-  }
+
   
-  .logo img{
-    width: 60px;
+  .sublogo{
+    display: flex;
+    width: 15vw;
+    padding: 5px;
+    background-color: black;
+
+  }
+  .sublogo img{
+   width: 100%;
+   display: block;
   }
   
   

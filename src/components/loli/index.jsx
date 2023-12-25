@@ -3,6 +3,10 @@ import './lolis.css'
 
 export default function loli() {
   return (
-    <img src="img/diosa.png" alt=""  className='loli'/>
+    <div className='caja'>
+<img src="img/diosa.png" alt=""  className='loli'/>
+
+    </div>
+    
   )
 }
