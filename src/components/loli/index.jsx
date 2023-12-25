@@ -3,6 +3,6 @@ import './lolis.css'
 
 export default function loli() {
   return (
-    <img src="public/img/diosa.png" alt=""  className='loli'/>
+    <img src="img/diosa.png" alt=""  className='loli'/>
   )
 }
