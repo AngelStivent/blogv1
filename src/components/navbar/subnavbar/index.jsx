@@ -22,7 +22,7 @@ export default function index() {
         ))}
       </ul>
       <div className='logo '>
-        <img src='public/img/logo/logocompany23.png' alt="a"/>
+        <img src='img/logo/logocompany23.png' alt="a"/>
       </div>
       <ul className='subnavegador2'>
         {elementos2.map(elemento =>(
