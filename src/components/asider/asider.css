@@ -29,7 +29,7 @@
   
   .list {
     display: flex;
-    width: 100%;
+    width: 100vw;
 
   }
 
@@ -42,7 +42,7 @@
   }
   
   .list img:hover {
-    width: 40vw;
+    width: 20vw;
     transition: 0.8s ease;
     opacity: 1;
     filter: contrast(120%);
