@@ -1,15 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Navbar from './components/navbar'
-import Aside from './components/fond/index'
-import Loli from './components/loli'
 import './index.css'
+import Inicio from './pages/inicio'
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Loli/>
-   <Navbar/>
-   <Aside/>
- 
+    <Inicio/>
+
   </React.StrictMode>,
 )

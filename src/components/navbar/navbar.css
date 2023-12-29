@@ -1,10 +1,11 @@
 
-nav{
+.navbar{
   padding-inline-end: 40px;
   padding-inline-start: 40px;
-  width: 100vw;
-  background-color: rgba(0, 0, 0, 0.637);
-  position: fixed;
+  width: 100%;
+  background-color: rgba(54, 52, 52, 0.637);
+  /*position: fixed;*/
+  box-sizing: border-box;
   overflow: hidden;
 }
 

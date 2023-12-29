@@ -1,0 +1,50 @@
+.conste{
+    background-image: linear-gradient(#00000028,#333333a4),url(public/img/imagenes/Vía.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 45vh;
+
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.226);
+    color: aliceblue;
+    width: 100%;
+    margin: 10px;
+}
+
+/*asider2*/
+
+.cont {
+    background-color: rgba(0, 0, 0, 0.534);
+    width: 100%;
+    height: 45vh;
+    display: flex;
+  }
+  
+  .list {
+    display: flex;
+    width: 100%;
+
+  }
+
+  .list img {
+    width: 0;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 0.7;
+    transition: 0.5s ease;
+  }
+  
+  .list img:hover {
+    width: 40vw;
+    transition: 0.8s ease;
+    opacity: 1;
+    filter: contrast(120%);
+  }
+  

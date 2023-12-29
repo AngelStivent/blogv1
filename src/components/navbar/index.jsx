@@ -6,7 +6,7 @@ import Subnavbar from './subnavbar/index'
 export default function index() {
   return (
     <>
-            <nav className=''>
+            <nav className='navbar'>
            <div className='content'>
               <ul className='navegador1'>
                 {elementos.map(elemento =>(
@@ -41,7 +41,7 @@ export default function index() {
             
           
             </nav>
-            <Subnavbar/>
+    
     </>
     
   )

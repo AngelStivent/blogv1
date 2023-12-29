@@ -22,8 +22,7 @@
     padding: 10px;
   }
   .subcontent ul{
-    width: 15vw;
-
+    width: 15vw;  
     display: flex;
     flex-flow:column nowrap;
     justify-content: center;
