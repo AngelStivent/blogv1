@@ -3,10 +3,11 @@
   padding-inline-end: 40px;
   padding-inline-start: 40px;
   width: 100%;
-  background-color: rgba(54, 52, 52, 0.637);
-  /*position: fixed;*/
+  background-color: rgba(253, 0, 0, 0.788);
+  position: fixed;
   box-sizing: border-box;
   overflow: hidden;
+  z-index: 1;
 }
 
 .content{

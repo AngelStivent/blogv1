@@ -11,6 +11,7 @@ export const elementos = [
       ]
     },
     { id: 2, urls: "#1", class: "explorer", texto: 'Acerca' },
+    { id: 2, urls: "#1", class: "explorer", texto: 'Cultura' },
     
 
   ];

@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../components/navbar/index'
-import Asider from '../components/asider/index'
+import Asider from '../components/asider/asider'
 import Card2 from '../components/cards/card2'
 import Asider2 from '../components/asider/asider2'
 export default function inicio() {
@@ -8,10 +8,8 @@ export default function inicio() {
     <>
     <Navbar/>
     <Asider/>
-    <Asider2/>
-    <Card2/>
-
-
+    <Asider2 />
+    <Card2 />
     
     </>
   )
