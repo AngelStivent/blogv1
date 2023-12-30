@@ -6,9 +6,9 @@ export default function card2() {
     <div  className='cont-card'>
 
       <div className='card'>
-        <img src='public/img/imagenes/Vía.png' className='card-img'/>
+        <img src='/img/imagenes/Vía.png' className='card-img'/>
         <div className='card-body'>
-        <img src='public/img/imagenes/Vía.png' className='card-icon'/>
+        <img src='/img/imagenes/Vía.png' className='card-icon'/>
           <h2 className='card-title'>
             Titulo
           </h2>
@@ -22,9 +22,9 @@ export default function card2() {
       </div>
 
       <div className='card'>
-        <img src='public/img/imagenes/Vía.png' className='card-img'/>
+        <img src='/img/imagenes/Vía.png' className='card-img'/>
         <div className='card-body'>
-        <img src='public/img/imagenes/Vía.png' className='card-icon'/>
+        <img src='/img/imagenes/Vía.png' className='card-icon'/>
           <h2 className='card-title'>
             Titulo
           </h2>
@@ -38,9 +38,9 @@ export default function card2() {
       </div>
 
       <div className='card'>
-        <img src='public/img/imagenes/Vía.png' className='card-img'/>
+        <img src='/img/imagenes/Vía.png' className='card-img'/>
         <div className='card-body'>
-        <img src='public/img/imagenes/Vía.png' className='card-icon'/>
+        <img src='/img/imagenes/Vía.png' className='card-icon'/>
           <h2 className='card-title'>
             Titulo
           </h2>
@@ -54,9 +54,9 @@ export default function card2() {
       </div>
 
       <div className='card'>
-        <img src='public/img/imagenes/Vía.png' className='card-img'/>
+        <img src='/img/imagenes/Vía.png' className='card-img'/>
         <div className='card-body'>
-        <img src='public/img/imagenes/Vía.png' className='card-icon'/>
+        <img src='/img/imagenes/Vía.png' className='card-icon'/>
           <h2 className='card-title'>
             Titulo
           </h2>
@@ -70,9 +70,9 @@ export default function card2() {
       </div>
 
       <div className='card'>
-        <img src='public/img/imagenes/Vía.png' className='card-img'/>
+        <img src='/img/imagenes/Vía.png' className='card-img'/>
         <div className='card-body'>
-        <img src='public/img/imagenes/Vía.png' className='card-icon'/>
+        <img src='/img/imagenes/Vía.png' className='card-icon'/>
           <h2 className='card-title'>
             Titulo
           </h2>
@@ -86,9 +86,9 @@ export default function card2() {
       </div>
 
       <div className='card'>
-        <img src='public/img/imagenes/Vía.png' className='card-img'/>
+        <img src='/img/imagenes/Vía.png' className='card-img'/>
         <div className='card-body'>
-        <img src='public/img/imagenes/Vía.png' className='card-icon'/>
+        <img src='/img/imagenes/Vía.png' className='card-icon'/>
           <h2 className='card-title'>
             Titulo
           </h2>
@@ -102,9 +102,9 @@ export default function card2() {
       </div>
 
       <div className='card'>
-        <img src='public/img/imagenes/Vía.png' className='card-img'/>
+        <img src='/img/imagenes/Vía.png' className='card-img'/>
         <div className='card-body'>
-        <img src='public/img/imagenes/Vía.png' className='card-icon'/>
+        <img src='/img/imagenes/Vía.png' className='card-icon'/>
           <h2 className='card-title'>
             Titulo
           </h2>
@@ -118,9 +118,9 @@ export default function card2() {
       </div>
 
       <div className='card'>
-        <img src='public/img/imagenes/Vía.png' className='card-img'/>
+        <img src='/img/imagenes/Vía.png' className='card-img'/>
         <div className='card-body'>
-        <img src='public/img/imagenes/Vía.png' className='card-icon'/>
+        <img src='/img/imagenes/Vía.png' className='card-icon'/>
           <h2 className='card-title'>
             Titulo
           </h2>
@@ -134,9 +134,9 @@ export default function card2() {
       </div>
 
       <div className='card'>
-        <img src='public/img/imagenes/Vía.png' className='card-img'/>
+        <img src='/img/imagenes/Vía.png' className='card-img'/>
         <div className='card-body'>
-        <img src='public/img/imagenes/Vía.png' className='card-icon'/>
+        <img src='/img/imagenes/Vía.png' className='card-icon'/>
           <h2 className='card-title'>
             Titulo
           </h2>
@@ -150,9 +150,9 @@ export default function card2() {
       </div>
 
       <div className='card'>
-        <img src='public/img/imagenes/Vía.png' className='card-img'/>
+        <img src='/img/imagenes/Vía.png' className='card-img'/>
         <div className='card-body'>
-        <img src='public/img/imagenes/Vía.png' className='card-icon'/>
+        <img src='/img/imagenes/Vía.png' className='card-icon'/>
           <h2 className='card-title'>
             Titulo
           </h2>

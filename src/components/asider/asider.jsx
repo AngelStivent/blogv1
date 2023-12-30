@@ -6,7 +6,7 @@ export default function index() {
       <div className="App">
       <div className="video-caja">
         
-      <video src='public/videos/cumaral..mp4' autoPlay muted>  </video>
+      <video src='/videos/cumaral..mp4' autoPlay muted>  </video>
 
       </div>
     </div>
